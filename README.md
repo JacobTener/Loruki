@@ -1,0 +1,1 @@
+A site ready for deployment on Netlify. Designed from Brad Traversy's tutorial on youtube
